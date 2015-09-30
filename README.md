@@ -12,9 +12,9 @@ my | τοῦ
 grandfather | πάππου 
 Verus | Οὐήρου, 
  | τὸ 
-benign | καλόηθες 
+benignity | καλόηθες 
 and | καὶ 
-anger-free | ἀόργητον
+(being) anger-free | ἀόργητον
 
  2  |  β΄
 --- | ---
@@ -28,7 +28,7 @@ about | περὶ
 my    | τοῦ 
 begetter (father) | γεννήσαντος, 
      | τὸ 
-modest | αἰδῆμον 
+modest(y) | αἰδῆμον 
 and  | καὶ 
 man(liness)  | ἀρρενικόν
 
