@@ -30,7 +30,7 @@ begetter (father) | γεννήσαντος,
      | τὸ 
 modest | αἰδῆμον 
 and  | καὶ 
-man  | ἀρρενικόν
+man(liness)  | ἀρρενικόν
 
 http://www.loebclassics.com/view/marcus_aurelius-meditations/1916/pb_LCL058.3.xml
 
