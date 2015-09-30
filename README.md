@@ -32,6 +32,42 @@ modest(y) | αἰδῆμον
 and  | καὶ 
 man(liness)  | ἀρρενικόν
 
+3   |   γ΄
+--- | ---
+From | Παρὰ 
+my   | τῆς 
+mother    | μητρός, 
+the | τὸ 
+fear of God (pious)    | θεοσεβὲς 
+and    | καὶ 
+free-giving (generosity)    | μεταδοτικόν· 
+and    | καὶ 
+abstemious (abstention)    | ἀφεκτικὸν 
+for not    | οὐ 
+alone (only)    | μόνον 
+    | τοῦ 
+do ill   | κακοποιεῖν, 
+    | ἀλλὰ 
+    | καὶ 
+    | τοῦ 
+    | ἐπὶ 
+    | ἐννοίας 
+come into a new state of being    | γίνεσθαι 
+such as this    | τοιαύτης· 
+still    | ἔτι 
+but    | δὲ 
+the    | τὸ 
+simple (inexpensive/frugal)    | λιτὸν 
+against    | κατὰ 
+the    | τὴν 
+way of living    | δίαιταν 
+    | καὶ 
+    | πόρρω 
+    | τῆς 
+peculiar to a rich man    | πλουσιακῆς 
+    | διαγωγῆς
+
+
 http://www.loebclassics.com/view/marcus_aurelius-meditations/1916/pb_LCL058.3.xml
 
 http://www.scribd.com/doc/277032904/Marcus-Aurelius-Meditacoes-Em-Grego#scribd
