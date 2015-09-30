@@ -16,7 +16,7 @@ benign | καλόηθες
 and | καὶ 
 anger-free | ἀόργητον
 
-IMOW: <b>From my grandfather Verus, to be kind and free of all anger.</b>
+<b>From my grandfather Verus, to be kind and free of all anger.</b>
 
  2  |  β΄
 --- | ---
@@ -33,6 +33,8 @@ begetter (father) | γεννήσαντος,
 modest(y) | αἰδῆμον 
 and  | καὶ 
 man(liness)  | ἀρρενικόν
+
+<b>From judgment and memory of my father, to be modest and manly.</b>
 
 3   |   γ΄
 --- | ---
@@ -69,6 +71,7 @@ way of living    | δίαιταν
 peculiar to a rich man    | πλουσιακῆς 
     | διαγωγῆς
 
+<b>From my mother, the fear of God and generosity and abstention from not only doing ill but even from the very thought of doing it; choosing a simple way of living rather than that of a rich man.</b>
 
 http://www.loebclassics.com/view/marcus_aurelius-meditations/1916/pb_LCL058.3.xml
 
