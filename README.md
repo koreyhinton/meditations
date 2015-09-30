@@ -12,9 +12,11 @@ my | τοῦ
 grandfather | πάππου 
 Verus | Οὐήρου, 
  | τὸ 
-benignity | καλόηθες 
+benign | καλόηθες 
 and | καὶ 
-(being) anger-free | ἀόργητον
+anger-free | ἀόργητον
+
+IMOW: <b>From my grandfather Verus, to be kind and free of all anger.</b>
 
  2  |  β΄
 --- | ---
