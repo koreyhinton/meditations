@@ -37,3 +37,5 @@ http://www.loebclassics.com/view/marcus_aurelius-meditations/1916/pb_LCL058.3.xm
 http://www.scribd.com/doc/277032904/Marcus-Aurelius-Meditacoes-Em-Grego#scribd
 
 http://www.lectio-divina.org/index.cfm?fuseaction=feature.display&feature_id=46
+
+http://www.perseus.tufts.edu/hopper/morph?l=%CE%B3%CE%B5%CE%BD%CE%BD%E1%BD%B5%CF%83%CE%B1%CE%BD%CF%84%CE%BF%CF%82&la=greek
